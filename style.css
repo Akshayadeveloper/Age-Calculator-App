@@ -1,0 +1,22 @@
+/* styles.css */
+@import url( 
+"https://fonts.googleapis.com/css2?family=Pacifico&display=swap"); 
+* { 
+	box-sizing: border-box; 
+	margin: 0; 
+	padding: 0;
+  color:#fff;
+}
+body {
+  font-family: sans-serif;
+  text-align: center;
+   overflow: hidden;
+            background: url('https://source.unsplash.com/1920x1080/?glow') no-repeat fixed;
+            background-size: cover;
+            animation: sparkleBackground 10s infinite linear;
+     color:#fff;
+}
+#calculate-button{
+  color:#fff;
+  background-image:url("https://scitechdaily.com/images/Massive-Galaxy.gif");
+}
